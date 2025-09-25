@@ -1,2 +1,3 @@
 ola meu nome é estefania
-aprendendo github
+aprendendo GitHub
+aprendendo git
